@@ -1,1 +1,0 @@
-# hbc_medical_mission
