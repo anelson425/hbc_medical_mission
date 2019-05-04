@@ -3,8 +3,8 @@ tagline: HBC Missions Trip
 email: your-email@domain.com
 description: >
   This is the description thast needs filled in
-baseurl: ""
-url: "https://www.andytris.com"
+baseurl: "hbc_missions_trip"
+url: "https://anelson425.github.io"
 remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
