@@ -1,9 +1,7 @@
 ---
-title: HBC Missions Trip
+title: Harvest Baptist Church Missions Trip - 2019
 subtitle: Subtitle here
 layout: page
 ---
 
-# Bulma Clean Theme demo website
-
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages.
+Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; Ephesians 6:18

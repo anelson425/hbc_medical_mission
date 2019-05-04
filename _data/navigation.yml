@@ -1,6 +1,14 @@
-- name: Team
-  link: /team/
-- name: Help Out
+- name: What
+  link: /what/
+- name: Why
+  link: /why/
+- name: How Much
+  link: /how_much/
+- name: Where
+  link: /where/
+- name: Who
+  link: /who/
+- name: Help
   link: /help/
 - name: Blog
   link: /blog/
