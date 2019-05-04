@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: >
   This is the description thast needs filled in
 baseurl: ""
-url: ""
+url: "https://anelson425.github.io/hbc_missions_trip"
 remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
