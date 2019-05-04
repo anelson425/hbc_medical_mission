@@ -26,14 +26,9 @@ exclude:
 
 livereload: true
 
-sass:
-  style: compressed
-  source_dir: _sass
-
 #google_analytics: UA-code-here
 
 markdown: kramdown
 highlighter: rouge
 
-#footer_menu: example_footer_menu
-footer_menu: example_footer_menu
+footer_menu: footer
