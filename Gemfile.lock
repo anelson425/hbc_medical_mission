@@ -116,7 +116,9 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-assets
   jekyll-feed
+  jekyll-paginate
   jekyll-remote-theme
+  jekyll-seo-tag
   tzinfo-data
 
 BUNDLED WITH

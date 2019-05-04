@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: >
   This is the description thast needs filled in
 baseurl: ""
-url: "https://anelson425.github.io/hbc_missions_trip"
+url: "https://www.andytris.com"
 remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
@@ -13,6 +13,10 @@ paginate_path: "/blog/page:num"
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
 
 exclude:
   - Gemfile
