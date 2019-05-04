@@ -3,7 +3,7 @@ tagline: HBC Missions Trip
 email: your-email@domain.com
 description: >
   This is the description thast needs filled in
-baseurl: "/hbc_missions_trip"
+baseurl: ""
 url: "https://anelson425.github.io"
 remote_theme: chrisrhymes/bulma-clean-theme
 
