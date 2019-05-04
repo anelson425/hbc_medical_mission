@@ -1,1 +1,1 @@
-Sitemap: https://anelson425.github.io/hbc_missions_trip/sitemap.xml
+Sitemap: http://localhost:4000/hbc_missions_trip/sitemap.xml
