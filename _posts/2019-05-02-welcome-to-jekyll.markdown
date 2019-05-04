@@ -1,9 +1,0 @@
----
-title: Test Post 3
-subtitle: Test post subtitle
-layout: post
-author: C.S. Rhymes
-tags: html JavaScript CSS Jekyll
----
-
-This is a test post!

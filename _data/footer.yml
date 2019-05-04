@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: About Us
-  link: /about_us/
 - name: Team
   link: /team/
 - name: Help Out
