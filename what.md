@@ -2,6 +2,7 @@
 title: The What
 subtitle: What are we doing while in El Salvador
 layout: page
+permalink: /what/
 ---
 
 ## Vacation Bible School

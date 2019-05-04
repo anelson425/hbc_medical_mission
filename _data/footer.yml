@@ -1,8 +1,6 @@
 - name: Home
   link: /
-- name: Team
-  link: /team/
-- name: Help Out
-  link: /help_out/
+- name: Help
+  link: /help/
 - name: Blog
   link: /blog/

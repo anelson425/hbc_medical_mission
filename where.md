@@ -2,6 +2,7 @@
 title: The Where
 subtitle: Where in El Salvador are we going?
 layout: page
+permalink: /where/
 ---
 <style>
     .google-maps {

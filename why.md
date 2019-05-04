@@ -2,6 +2,7 @@
 title: The Why
 subtitle: Why are we going to El Salvador
 layout: page
+permalink: /why/
 ---
 
 ![Iglesia Bautista Buenas Nuevas](https://scontent.fmkc1-1.fna.fbcdn.net/v/t1.0-9/44177260_286763711938262_1003241585103601664_n.jpg?_nc_cat=110&_nc_ht=scontent.fmkc1-1.fna&oh=c7b6d28715bfe75ab776e8848f20d170&oe=5D32EFDC)
